@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --color-eco-50: #f0fdf4;
+  --color-eco-100: #dcfce7;
+  --color-eco-200: #bbf7d0;
+  --color-eco-300: #86efac;
+  --color-eco-400: #4ade80;
+  --color-eco-500: #22c55e;
+  --color-eco-600: #16a34a;
+  --color-eco-700: #15803d;
+  --color-eco-800: #166534;
+  --color-eco-900: #14532d;
+  --color-eco-950: #052e16;
+  --color-earth-50: #fefce8;
+  --color-earth-100: #fef9c3;
+  --color-earth-200: #fef08a;
+  --color-earth-300: #fde047;
+  --color-earth-400: #facc15;
+  --color-earth-500: #eab308;
+  --color-earth-600: #ca8a04;
+  --color-earth-700: #a16207;
+  --color-earth-800: #854d0e;
+  --color-earth-900: #713f12;
+  --color-earth-950: #422006;
+  --color-leaf-50: #f5fdf4;
+  --color-leaf-100: #e1fae0;
+  --color-leaf-200: #c3f4c1;
+  --color-leaf-300: #94eb91;
+  --color-leaf-400: #5eda59;
+  --color-leaf-500: #38c532;
+  --color-leaf-600: #29a924;
+  --color-leaf-700: #238420;
+  --color-leaf-800: #20681e;
+  --color-leaf-900: #1c551b;
+  --color-leaf-950: #0a3009;
+  --color-sky: #0ea5e9;
+  --color-sky-dark: #0369a1;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-gray-900 antialiased;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #86efac;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #22c55e;
+}

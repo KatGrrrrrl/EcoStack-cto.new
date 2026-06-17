@@ -1,0 +1,688 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-06-17T02:13:09.974Z",
+  "providers": [
+    {
+      "id": "greengeeks",
+      "name": "GreenGeeks",
+      "domain": "greengeeks.com",
+      "category": "green-hosting",
+      "tagline": "Web Hosting That's Good for the Planet",
+      "description": "GreenGeeks is an eco-friendly web hosting provider that puts back 3x the energy they consume into the grid in the form of renewable energy.",
+      "types": [
+        "shared",
+        "vps",
+        "cloud"
+      ],
+      "priceRange": "$2.95 - $13.95/mo",
+      "audience": [
+        "small-business",
+        "developers"
+      ],
+      "website": "https://www.greengeeks.com",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Cloudflare",
+      "lastChecked": "2026-06-17T02:13:06.487Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Cloudflare",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "kinsta",
+      "name": "Kinsta",
+      "domain": "kinsta.com",
+      "category": "green-hosting",
+      "tagline": "Premium WordPress Hosting on Google Cloud",
+      "description": "Kinsta provides premium managed WordPress hosting powered by Google Cloud Platform's carbon-neutral infrastructure.",
+      "types": [
+        "managed-wp",
+        "cloud"
+      ],
+      "priceRange": "$35 - $1,650/mo",
+      "audience": [
+        "agencies",
+        "enterprise",
+        "developers"
+      ],
+      "website": "https://kinsta.com",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Cloudflare",
+      "lastChecked": "2026-06-17T02:13:06.492Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Cloudflare",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "hostpapa",
+      "name": "HostPapa",
+      "domain": "hostpapa.com",
+      "category": "green-hosting",
+      "tagline": "Green Web Hosting for Small Business",
+      "description": "HostPapa is committed to green web hosting, powering their servers and offices with 100% renewable energy.",
+      "types": [
+        "shared",
+        "vps",
+        "managed-wp"
+      ],
+      "priceRange": "$2.95 - $19.99/mo",
+      "audience": [
+        "small-business",
+        "freelancers"
+      ],
+      "website": "https://www.hostpapa.com",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Cloudflare",
+      "lastChecked": "2026-06-17T02:13:06.488Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Cloudflare",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "dreamhost",
+      "name": "DreamHost",
+      "domain": "dreamhost.com",
+      "category": "green-hosting",
+      "tagline": "Reliable Hosting with a Green Promise",
+      "description": "DreamHost powers their data centers with renewable energy and offers carbon offsets for their remaining footprint.",
+      "types": [
+        "shared",
+        "vps",
+        "dedicated",
+        "cloud"
+      ],
+      "priceRange": "$2.59 - $19.95/mo",
+      "audience": [
+        "small-business",
+        "developers",
+        "agencies"
+      ],
+      "website": "https://www.dreamhost.com",
+      "logoUrl": null,
+      "greenVerified": false,
+      "hostedBy": null,
+      "lastChecked": "2026-06-17T02:13:07.591Z",
+      "tgwfData": {
+        "green": false
+      },
+      "badges": []
+    },
+    {
+      "id": "a2-hosting",
+      "name": "A2 Hosting",
+      "domain": "a2hosting.com",
+      "category": "green-hosting",
+      "tagline": "Turbo Speed with a Green Heart",
+      "description": "A2 Hosting partners with Carbonfund.org to offset their carbon footprint and provides eco-friendly hosting solutions.",
+      "types": [
+        "shared",
+        "vps",
+        "dedicated",
+        "managed-wp"
+      ],
+      "priceRange": "$2.99 - $14.99/mo",
+      "audience": [
+        "developers",
+        "small-business"
+      ],
+      "website": "https://www.a2hosting.com",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Cloudflare",
+      "lastChecked": "2026-06-17T02:13:07.273Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Cloudflare",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "greenhost",
+      "name": "Greenhost",
+      "domain": "greenhost.net",
+      "category": "green-hosting",
+      "tagline": "Open Source Hosting, 100% Green",
+      "description": "Greenhost runs all servers on 100% renewable energy from Dutch wind and solar sources.",
+      "types": [
+        "shared",
+        "vps",
+        "cloud"
+      ],
+      "priceRange": "€3.50 - €25/mo",
+      "audience": [
+        "developers",
+        "small-business"
+      ],
+      "website": "https://greenhost.net",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Greenhost",
+      "lastChecked": "2026-06-17T02:13:07.267Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Greenhost",
+        "hostedByWebsite": "https://greenhost.net",
+        "hostedById": 9
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Greenhost",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "inmotion-hosting",
+      "name": "InMotion Hosting",
+      "domain": "inmotionhosting.com",
+      "category": "green-hosting",
+      "tagline": "Green Web Hosting with Carbon Offset",
+      "description": "InMotion Hosting is committed to sustainability, purchasing renewable energy certificates to offset 100% of their power usage.",
+      "types": [
+        "shared",
+        "vps",
+        "dedicated"
+      ],
+      "priceRange": "$2.49 - $14.99/mo",
+      "audience": [
+        "small-business",
+        "developers"
+      ],
+      "website": "https://www.inmotionhosting.com",
+      "logoUrl": null,
+      "greenVerified": false,
+      "hostedBy": null,
+      "lastChecked": "2026-06-17T02:13:08.223Z",
+      "tgwfData": {
+        "green": false
+      },
+      "badges": []
+    },
+    {
+      "id": "siteground",
+      "name": "SiteGround",
+      "domain": "siteground.com",
+      "category": "green-hosting",
+      "tagline": "Sustainable Hosting with Google Cloud",
+      "description": "SiteGround runs on Google Cloud's carbon-neutral infrastructure and matches 100% of their energy usage with renewable energy.",
+      "types": [
+        "shared",
+        "cloud",
+        "managed-wp"
+      ],
+      "priceRange": "$3.99 - $14.99/mo",
+      "audience": [
+        "small-business",
+        "developers",
+        "agencies"
+      ],
+      "website": "https://www.siteground.com",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Google Cloud",
+      "lastChecked": "2026-06-17T02:13:08.055Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Google Cloud",
+        "hostedByWebsite": "https://cloud.google.com",
+        "hostedById": 595
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Google Cloud",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "green-ai",
+      "name": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "eco-apis",
+      "tagline": "Responsible AI Platform",
+      "description": "Hugging Face is committed to sustainable machine learning, offsetting carbon emissions from model training and inference.",
+      "types": [],
+      "priceRange": "Free / Enterprise",
+      "audience": [
+        "developers",
+        "enterprise"
+      ],
+      "website": "https://huggingface.co",
+      "logoUrl": null,
+      "greenVerified": false,
+      "hostedBy": null,
+      "lastChecked": "2026-06-17T02:13:08.527Z",
+      "tgwfData": {
+        "green": false
+      },
+      "badges": []
+    },
+    {
+      "id": "plausible",
+      "name": "Plausible Analytics",
+      "domain": "plausible.io",
+      "category": "green-analytics",
+      "tagline": "Lightweight, Privacy-First Analytics",
+      "description": "Plausible is a lightweight analytics tool that uses minimal server resources and offsets their carbon footprint.",
+      "types": [],
+      "priceRange": "$9 - $69/mo",
+      "audience": [
+        "small-business",
+        "developers"
+      ],
+      "website": "https://plausible.io",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Hetzner Online GmbH",
+      "lastChecked": "2026-06-17T02:13:08.831Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Hetzner Online GmbH",
+        "hostedByWebsite": "https://www.hetzner.com",
+        "hostedById": 131
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Hetzner Online GmbH",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "fathom",
+      "name": "Fathom Analytics",
+      "domain": "usefathom.com",
+      "category": "green-analytics",
+      "tagline": "Simple Analytics Without the Carbon Cost",
+      "description": "Fathom Analytics runs on renewable-energy-powered servers and uses minimal resources per pageview.",
+      "types": [],
+      "priceRange": "$14 - $54/mo",
+      "audience": [
+        "small-business",
+        "developers"
+      ],
+      "website": "https://usefathom.com",
+      "logoUrl": null,
+      "greenVerified": false,
+      "hostedBy": null,
+      "lastChecked": "2026-06-17T02:13:09.197Z",
+      "tgwfData": {
+        "green": false
+      },
+      "badges": []
+    },
+    {
+      "id": "bunny-net",
+      "name": "Bunny.net",
+      "domain": "bunny.net",
+      "category": "renewable-cdn",
+      "tagline": "Sustainable Global CDN",
+      "description": "Bunny.net operates a global CDN with edge nodes optimized for energy efficiency and powered increasingly by renewable sources.",
+      "types": [],
+      "priceRange": "Pay-as-you-go",
+      "audience": [
+        "developers",
+        "enterprise"
+      ],
+      "website": "https://bunny.net",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Hetzner Online GmbH",
+      "lastChecked": "2026-06-17T02:13:09.305Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Hetzner Online GmbH",
+        "hostedByWebsite": "https://www.hetzner.com",
+        "hostedById": 131
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Hetzner Online GmbH",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "domain": "notion.so",
+      "category": "carbon-saas",
+      "tagline": "All-in-one workspace, carbon neutral",
+      "description": "Notion is a carbon-neutral productivity platform, offsetting emissions from cloud infrastructure and operations.",
+      "types": [],
+      "priceRange": "Free - $18/user/mo",
+      "audience": [
+        "small-business",
+        "enterprise",
+        "freelancers"
+      ],
+      "website": "https://www.notion.so",
+      "logoUrl": null,
+      "greenVerified": false,
+      "hostedBy": null,
+      "lastChecked": "2026-06-17T02:13:09.783Z",
+      "tgwfData": {
+        "green": false
+      },
+      "badges": []
+    },
+    {
+      "id": "linear",
+      "name": "Linear",
+      "domain": "linear.app",
+      "category": "carbon-saas",
+      "tagline": "Sustainable Project Management",
+      "description": "Linear offsets their cloud infrastructure carbon emissions and runs on efficient infrastructure.",
+      "types": [],
+      "priceRange": "Free - $16/user/mo",
+      "audience": [
+        "developers",
+        "agencies"
+      ],
+      "website": "https://linear.app",
+      "logoUrl": null,
+      "greenVerified": true,
+      "hostedBy": "Cloudflare",
+      "lastChecked": "2026-06-17T02:13:09.973Z",
+      "tgwfData": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      },
+      "badges": [
+        {
+          "id": "tgwf",
+          "name": "TGWF Verified Green",
+          "type": "green"
+        },
+        {
+          "id": "hosted-by",
+          "name": "Hosted by Cloudflare",
+          "type": "info"
+        }
+      ]
+    }
+  ],
+  "verifications": {
+    "greengeeks.com": {
+      "domain": "greengeeks.com",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Cloudflare",
+      "hostedByWebsite": "https://www.cloudflare.com",
+      "hostedById": 779,
+      "checkedAt": "2026-06-17T02:13:06.487Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      }
+    },
+    "kinsta.com": {
+      "domain": "kinsta.com",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Cloudflare",
+      "hostedByWebsite": "https://www.cloudflare.com",
+      "hostedById": 779,
+      "checkedAt": "2026-06-17T02:13:06.492Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      }
+    },
+    "hostpapa.com": {
+      "domain": "hostpapa.com",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Cloudflare",
+      "hostedByWebsite": "https://www.cloudflare.com",
+      "hostedById": 779,
+      "checkedAt": "2026-06-17T02:13:06.488Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      }
+    },
+    "a2hosting.com": {
+      "domain": "a2hosting.com",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Cloudflare",
+      "hostedByWebsite": "https://www.cloudflare.com",
+      "hostedById": 779,
+      "checkedAt": "2026-06-17T02:13:07.273Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      }
+    },
+    "greenhost.net": {
+      "domain": "greenhost.net",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Greenhost",
+      "hostedByWebsite": "https://greenhost.net",
+      "hostedById": 9,
+      "checkedAt": "2026-06-17T02:13:07.267Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Greenhost",
+        "hostedByWebsite": "https://greenhost.net",
+        "hostedById": 9
+      }
+    },
+    "siteground.com": {
+      "domain": "siteground.com",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Google Cloud",
+      "hostedByWebsite": "https://cloud.google.com",
+      "hostedById": 595,
+      "checkedAt": "2026-06-17T02:13:08.055Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Google Cloud",
+        "hostedByWebsite": "https://cloud.google.com",
+        "hostedById": 595
+      }
+    },
+    "huggingface.co": {
+      "domain": "huggingface.co",
+      "verified": false,
+      "green": false,
+      "hostedBy": null,
+      "hostedByWebsite": null,
+      "hostedById": null,
+      "checkedAt": "2026-06-17T02:13:08.527Z",
+      "raw": {
+        "green": false
+      }
+    },
+    "dreamhost.com": {
+      "domain": "dreamhost.com",
+      "verified": false,
+      "green": false,
+      "hostedBy": null,
+      "hostedByWebsite": null,
+      "hostedById": null,
+      "checkedAt": "2026-06-17T02:13:07.591Z",
+      "raw": {
+        "green": false
+      }
+    },
+    "plausible.io": {
+      "domain": "plausible.io",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Hetzner Online GmbH",
+      "hostedByWebsite": "https://www.hetzner.com",
+      "hostedById": 131,
+      "checkedAt": "2026-06-17T02:13:08.831Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Hetzner Online GmbH",
+        "hostedByWebsite": "https://www.hetzner.com",
+        "hostedById": 131
+      }
+    },
+    "bunny.net": {
+      "domain": "bunny.net",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Hetzner Online GmbH",
+      "hostedByWebsite": "https://www.hetzner.com",
+      "hostedById": 131,
+      "checkedAt": "2026-06-17T02:13:09.305Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Hetzner Online GmbH",
+        "hostedByWebsite": "https://www.hetzner.com",
+        "hostedById": 131
+      }
+    },
+    "usefathom.com": {
+      "domain": "usefathom.com",
+      "verified": false,
+      "green": false,
+      "hostedBy": null,
+      "hostedByWebsite": null,
+      "hostedById": null,
+      "checkedAt": "2026-06-17T02:13:09.197Z",
+      "raw": {
+        "green": false
+      }
+    },
+    "linear.app": {
+      "domain": "linear.app",
+      "verified": true,
+      "green": true,
+      "hostedBy": "Cloudflare",
+      "hostedByWebsite": "https://www.cloudflare.com",
+      "hostedById": 779,
+      "checkedAt": "2026-06-17T02:13:09.973Z",
+      "raw": {
+        "green": true,
+        "hostedBy": "Cloudflare",
+        "hostedByWebsite": "https://www.cloudflare.com",
+        "hostedById": 779
+      }
+    },
+    "inmotionhosting.com": {
+      "domain": "inmotionhosting.com",
+      "verified": false,
+      "green": false,
+      "hostedBy": null,
+      "hostedByWebsite": null,
+      "hostedById": null,
+      "checkedAt": "2026-06-17T02:13:08.223Z",
+      "raw": {
+        "green": false
+      }
+    },
+    "notion.so": {
+      "domain": "notion.so",
+      "verified": false,
+      "green": false,
+      "hostedBy": null,
+      "hostedByWebsite": null,
+      "hostedById": null,
+      "checkedAt": "2026-06-17T02:13:09.783Z",
+      "raw": {
+        "green": false
+      }
+    }
+  }
+}
