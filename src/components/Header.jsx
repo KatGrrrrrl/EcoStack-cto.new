@@ -56,6 +56,18 @@ export default function Header() {
               Find Your Host
             </NavLink>
             <NavLink
+              to="/blog"
+              className={({ isActive }) =>
+                `ml-2 px-4 py-2 rounded-lg text-sm font-medium transition-all ${
+                  isActive
+                    ? 'bg-eco-100 text-eco-700'
+                    : 'text-gray-600 hover:text-eco-600 hover:bg-eco-50'
+                }`
+              }
+            >
+              Blog
+            </NavLink>
+            <NavLink
               to="/sell"
               className={({ isActive }) =>
                 `ml-2 px-4 py-2 rounded-lg text-sm font-semibold transition-all ${
@@ -111,6 +123,13 @@ export default function Header() {
               className="block px-3 py-2 rounded-lg text-sm font-semibold bg-eco-50 text-eco-700 hover:bg-eco-100"
             >
               🌱 Find Your Green Host
+            </Link>
+            <Link
+              to="/blog"
+              onClick={() => setMobileOpen(false)}
+              className="block px-3 py-2 rounded-lg text-sm font-medium text-gray-600 hover:bg-eco-50"
+            >
+              📝 Blog
             </Link>
             <Link
               to="/sell"

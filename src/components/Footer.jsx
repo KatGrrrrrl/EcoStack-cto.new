@@ -56,6 +56,7 @@ export default function Footer() {
             <h3 className="font-semibold text-white mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li><Link to="/hosting-wizard" className="text-eco-300 hover:text-eco-100 text-sm transition-colors">Find Your Green Host</Link></li>
+              <li><Link to="/blog" className="text-eco-300 hover:text-eco-100 text-sm transition-colors">Blog</Link></li>
               <li><Link to="/sell" className="text-eco-300 hover:text-eco-100 text-sm transition-colors">List Your Product</Link></li>
               <li><span className="text-eco-300 text-sm">About EcoStack</span></li>
               <li><span className="text-eco-300 text-sm">How Verification Works</span></li>
@@ -87,7 +88,29 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-10 pt-8 border-t border-eco-800 flex flex-col sm:flex-row items-center justify-between gap-4">
+        {/* Product Hunt Launch Badge */}
+        <div className="mt-10 flex justify-center">
+          <a
+            href="https://www.producthunt.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group inline-flex items-center gap-3 px-5 py-2.5 rounded-full bg-eco-800/50 hover:bg-eco-700/50 border border-eco-700/30 hover:border-eco-600/50 transition-all duration-300"
+            aria-label="EcoStack featured on Product Hunt"
+          >
+            <svg viewBox="0 0 260 56" className="h-7 w-auto" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect x="0" y="0" width="260" height="56" rx="28" ry="28" fill="#da552f" opacity="0.85"/>
+              <g transform="translate(18, 14)">
+                <polygon points="14,0 28,24 0,24" fill="white" opacity="0.9"/>
+                <polygon points="14,5 23,20 5,20" fill="#da552f"/>
+              </g>
+              <text x="52" y="22" font-family="Inter, sans-serif" font-size="9" fill="rgba(255,255,255,0.7)" font-weight="500" letter-spacing="1.5">FEATURED ON</text>
+              <text x="52" y="39" font-family="Inter, sans-serif" font-size="15" fill="white" font-weight="700" letter-spacing="-0.3">Product Hunt</text>
+            </svg>
+            <span className="text-xs text-eco-300 group-hover:text-eco-100 transition-colors font-medium">Launching Soon</span>
+          </a>
+        </div>
+
+        <div className="mt-8 pt-8 border-t border-eco-800 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-eco-400 text-sm">
             &copy; {currentYear} EcoStack. Every byte has a carbon cost — choose wisely.
           </p>

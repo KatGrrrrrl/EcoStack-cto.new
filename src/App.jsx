@@ -4,6 +4,8 @@ import Home from './pages/Home';
 import CategoryBrowser from './pages/CategoryBrowser';
 import HostingWizard from './pages/HostingWizard';
 import SellerPortal from './pages/SellerPortal';
+import Blog from './pages/Blog';
+import BlogPost from './pages/BlogPost';
 
 export default function App() {
   return (
@@ -14,6 +16,8 @@ export default function App() {
           <Route path="category/:slug" element={<CategoryBrowser />} />
           <Route path="hosting-wizard" element={<HostingWizard />} />
           <Route path="sell" element={<SellerPortal />} />
+          <Route path="blog" element={<Blog />} />
+          <Route path="blog/:slug" element={<BlogPost />} />
         </Route>
       </Routes>
     </BrowserRouter>
